@@ -50,9 +50,11 @@ namespace Fluffy_Breakdowns
             list.Gap();
 
             // maintain home only?
-            list.CheckboxLabeled( "FluffyBreakdowns.MaintenanceHome".Translate(),
-                                  ref MaintainHomeOnly,
-                                  "FluffyBreakdowns.MaintenanceHomeTip".Translate() );
+            list.CheckboxLabeled( label: "FluffyBreakdowns.MaintenanceHome".Translate(),
+                                  checkOn: ref MaintainHomeOnly,
+                                  tooltip: "FluffyBreakdowns.MaintenanceHomeTip".Translate(),
+                                  height: 0,
+                                  labelPct: 1);
             list.End();
         }
 
