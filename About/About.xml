@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
-  <name>Fluffy Breakdowns (1.6 Update)</name>
+  <name>Fluffy Breakdowns (1.7 Update)</name>
   <author>TheEyeOfBrows</author>
   <url>https://github.com/TheEyeOfBrows/FluffyBreakdowns</url>
   <packageId>theeyeofbrows.fluffybreakdowns</packageId>
@@ -20,7 +20,7 @@ I'm very interested in any feedback on how these changes affect the difficulty o
 
 &lt;size=20&gt;Maintainer Notes&lt;/size&gt;
 
-1.6 update of Fluffy Breakdowns.
+1.7 update of Fluffy Breakdowns.
 
 The original author is Fluffy.
 
@@ -29,6 +29,7 @@ See the original mod at https://steamcommunity.com/sharedfiles/filedetails/?id=7
 See the original project at https://github.com/fluffy-mods/FluffyBreakdowns
 </description>
   <supportedVersions>
+    <li>1.7</li>
     <li>1.6</li>
     <li>1.5</li>
     <li>1.4</li>

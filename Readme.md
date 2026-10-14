@@ -1,4 +1,4 @@
-[![RimWorld 1.6](https://img.shields.io/badge/RimWorld-1.6-brightgreen.svg)](http://rimworldgame.com/)
+[![RimWorld 1.7](https://img.shields.io/badge/RimWorld-1.7-brightgreen.svg)](http://rimworldgame.com/)
 
 Replaces random breakdowns with a maintenance requirement.
 
@@ -18,5 +18,5 @@ See the original project at https://github.com/fluffy-mods/FluffyBreakdowns
 
 *************************
 
-Support for RimWorld versions 1.3, 1.4, 1.5, 1.6
+Support for RimWorld versions 1.3, 1.4, 1.5, 1.6, 1.7
 Support for all expansions
